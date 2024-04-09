@@ -1,0 +1,11 @@
+{
+  "name": "chai-or-code",
+  "version": "1.0.0",
+  "description": "a project from chai or code youtube channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "roshan sharma",
+  "license": "ISC"
+}
