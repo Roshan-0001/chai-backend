@@ -2,10 +2,14 @@
   "name": "chai-or-code",
   "version": "1.0.0",
   "description": "a project from chai or code youtube channel",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": " nodemon src/index.js"
   },
   "author": "roshan sharma",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
